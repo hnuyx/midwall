@@ -1,7 +1,7 @@
 midwall
 
 ------------------------------------------------------------------------------
-this project is designed to compute the middle wall for a simple floor plan of an apartment.
+this project is designed to compute the middle wall for simple floor plan of an apartment.
 
 support:
 1. horizon wall
